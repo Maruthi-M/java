@@ -10,6 +10,7 @@ public class DataTypes {
 		double d=908.90;//8 bytes
 		char a='A';//2 bytes
 		System.out.println("byte->"+b+"short->"+s+"int->"+i+"float->"+f+"double->"+d+"char->"+a);
+		//datatypes
 	}
 
 }
