@@ -27,7 +27,7 @@ public class SelectionStatements {
 	/*A static method is one type of method which doesn't need any object to be initialized for it to be called. 
 	 * Have you noticed static is used in the main function in Java?
 	 *  Program execution begins from there without an object being created.*/
-	public static void callingIfElse(int a)
+	public static  void callingIfElse(int a)
 	{
 		if(a>18)
 			System.out.print("if-else::person eligible for voting");
